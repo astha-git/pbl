@@ -1,0 +1,4 @@
+52,Rishabh,ISBT,1
+40,Anshika,Supply,-1
+40,Anshikaaaaa,Supply,10
+1,rishi,ballupur,-1
